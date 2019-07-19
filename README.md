@@ -1,20 +1,20 @@
 # royale-with-cheese
 
-![alt text](path/to/img.png)
+![alt text](images/hailants.jpg)
 - Alright, when you .... into a movie theatre in Amsterdam, you can buy beer. And I don't mean in a paper cup either. 
 They give you a glass of beer. And in Paris, you can buy beer at MacDonald's. And you know what they call a 
 Quarter Pounder with Cheese in Paris?
 
-![alt text](./path/to/img.png)
+![alt text](./images/hailants.jpg)
 - They don't call it a Quarter Pounder with Cheese?
 
-[link](some/file.txt)
+[link](files/hello.txt)
 - No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.
 
-[link](/some/file.txt)
+[link](/files/hello.txt)
 - What'd they call it?
 
-![screenshot](/assets/images/some-image_1.png)
+![screenshot](/images/springfield.png)
 - They call it Royale with Cheese.
 
 https://icomoon.io/app/#/projects
