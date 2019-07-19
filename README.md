@@ -20,22 +20,25 @@ Quarter Pounder with Cheese in Paris?
 https://icomoon.io/app/#/projects
 - Royale with Cheese. What'd they call a Big Mac?
 
-[Enzyme](https://devhints.io/enzyme)
+![bigmac](images/bigmac.jpg)
 - Big Mac's a Big Mac, but they call it Le Big Mac.
 
-| **col1** | **col2** |
+![whopper](images/whopper.jpg)
 - Le big Mac! Ahhaha, what do they call a Whopper?
 
-| ----------| ------- |
+[Enzyme](https://devhints.io/enzyme)
 - I dunno, I didn't go into a Burger King. But you know what they put on french fries in Holland instead of ketchup?
 
-| val1      | val2    |
+[Bash](https://devhints.io/bash)
 - What?
 
 [guide](https://niketech.com/)
 ```js
 const Mayonnaise = "Goddamn!"
 ```
+| **col1** | **col2** |
+| ----------| ------- |
+| val1      | val2    |
 
 - [StyleGuidist](https://react-styleguidist.js.org/examples/basic/)
 - [StyleGuidist - cookbook](https://react-styleguidist.js.org/docs/cookbook.html)
