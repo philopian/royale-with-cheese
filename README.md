@@ -20,11 +20,10 @@ Quarter Pounder with Cheese in Paris?
 https://icomoon.io/app/#/projects
 - Royale with Cheese. What'd they call a Big Mac?
 
-<img src="images/bigmac.jpg" width="100" height="100">
+![](images/bigmac.jpg)
 - Big Mac's a Big Mac, but they call it Le Big Mac.
 
-
-<img src="images/whopper.jpg" width="100" height="100">
+![](images/whopper.jpg)
 - Le big Mac! Ahhaha, what do they call a Whopper?
 
 [Enzyme](https://devhints.io/enzyme)
