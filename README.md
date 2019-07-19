@@ -5,7 +5,7 @@
 They give you a glass of beer. And in Paris, you can buy beer at MacDonald's. And you know what they call a 
 Quarter Pounder with Cheese in Paris?
 
-![alt text](./images/hailants.jpg)
+![alt text](./images/kent.png)
 - They don't call it a Quarter Pounder with Cheese?
 
 [link](files/hello.txt)
